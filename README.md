@@ -9,7 +9,7 @@ The project demonstrates practical use of C++ programming concepts including **f
 ## Project Preview
 
 <p align="center">
-  <img src="images/main-menu.png" alt="Attendance Management System Main Menu" width="750">
+  <img src="main-menu.png" alt="Attendance Management System Main Menu" width="750">
 </p>
 
 ---
